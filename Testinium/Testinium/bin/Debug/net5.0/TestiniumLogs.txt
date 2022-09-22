@@ -1,0 +1,149 @@
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+INFO - Email ve şifre giriliyor.
+INFO - Network logosuna tıklanıyor.
+INFO - Çanta seçiliyor.
+INFO - Sepet açılıyor.
+INFO - Sepetteki ürün siliniyor.
+DEBUG - Kapanmasına son 10 saniye.
+INFO - Exiting browser.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+INFO - Email ve şifre giriliyor.
+INFO - Network logosuna tıklanıyor.
+INFO - Çanta seçiliyor.
+INFO - Sepet açılıyor.
+INFO - Sepetteki ürün siliniyor.
+DEBUG - Kapanmasına son 10 saniye.
+INFO - Exiting browser.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+INFO - Email ve şifre giriliyor.
+INFO - Network logosuna tıklanıyor.
+INFO - Çanta seçiliyor.
+INFO - Sepet açılıyor.
+INFO - Sepetteki ürün siliniyor.
+DEBUG - Kapanmasına son 10 saniye.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+DEBUG - Tarayıcı açıldı.
+DEBUG - https://www.network.com.tr/ Adresine gidiliyor.
+DEBUG - 1 saniye bekliyor.
+INFO - Jean aranıyor.
+INFO - Daha fazlaya basılıyor. (Fakat onclick eventi yok.)
+DEBUG - İndirimli ürüne hover ediyor.
+INFO - Rastgele beden seçiliyor.
+DEBUG - Sepete git butonuna tıklanıyor.
+INFO -  Eski fiyatı indirimli fiyatından büyük.
+INFO - Devam et butonuna tıklanıyor.
+INFO - Email ve şifre giriliyor.
+INFO - Network logosuna tıklanıyor.
+INFO - Çanta seçiliyor.
+INFO - Sepet açılıyor.
+INFO - Sepetteki ürün siliniyor.
+DEBUG - Kapanmasına son 10 saniye.
+INFO - Exiting browser.

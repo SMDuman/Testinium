@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testinium", "Testinium\Testinium.csproj", "{52DEC5D8-DD16-44F7-A252-582197C93FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DEC5D8-DD16-44F7-A252-582197C93FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DEC5D8-DD16-44F7-A252-582197C93FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DEC5D8-DD16-44F7-A252-582197C93FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DEC5D8-DD16-44F7-A252-582197C93FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2321FA01-61D9-43F4-9C2F-47C2F64D4B66}
+	EndGlobalSection
+EndGlobal
